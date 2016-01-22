@@ -1,0 +1,28 @@
+name: Dreams
+favicon: null
+layout_spectrum: 0.22368435049429536
+typography_spectrum: 0.40900554112158716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6569107132963836
+  lightness: 0.7597161773592234
+  saturation: 0.2651276618707925
+  rhythmicContrast: 0.7762667534407228
+purpose: []
