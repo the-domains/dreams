@@ -1,7 +1,7 @@
 name: Dreams
 favicon: null
-layout_spectrum: 0.22368435049429536
-typography_spectrum: 0.40900554112158716
+layout_spectrum: 0.96407
+typography_spectrum: 0.09095
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6569107132963836
-  lightness: 0.7597161773592234
-  saturation: 0.2651276618707925
-  rhythmicContrast: 0.7762667534407228
+    - '#000000'
+    - '#69c0d6'
+    - '#004459'
+    - '#009bba'
+    - '#5a6669'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
