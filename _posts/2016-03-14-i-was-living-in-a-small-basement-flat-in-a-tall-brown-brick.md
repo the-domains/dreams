@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I was living in a small basement flat in a tall brown-brick building that threatened to topple into the water at any moment. It found itself not so close to the side of a busy waterfront street to be noticed. I had to take the back stairs leading to the river, but that was ok because it meant I had a riverside porch for the small price of being below some store.'
-datePublished: '2016-03-14T19:43:29.761Z'
-dateModified: '2016-03-14T19:41:48.280Z'
+datePublished: '2016-03-14T19:50:16.179Z'
+dateModified: '2016-03-14T19:43:38.068Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-14-i-was-living-in-a-small-basement-flat-in-a-tall-brown-brick.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-i-was-living-in-a-small-basement-flat-in-a-tall-brown-brick.md
-published: true
 url: i-was-living-in-a-small-basement-flat-in-a-tall-brown-brick/index.html
 _type: Article
 
