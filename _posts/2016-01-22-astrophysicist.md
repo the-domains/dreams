@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-22T21:49:05.266Z'
-dateModified: '2016-01-22T21:48:52.676Z'
+description: "\"Fuck, these aren't crackers.\" While sitting with her, trying to write a list of all the crackers on lined paper crisply folded along the lines. Later, she says, \"if you want an iPad you'd better get it in Denver.\""
+datePublished: '2016-03-14T21:36:01.998Z'
+dateModified: '2016-03-14T21:35:52.196Z'
 title: Astrophysicist
 author: []
+sourcePath: _posts/2016-01-22-astrophysicist.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-astrophysicist.md
-published: true
 url: astrophysicist/index.html
 _type: Article
 
 ---
-"Fuck, these aren't crackers." While sitting with her, trying to write a list of all the crackers on lined paper crisply folded along the lines. Later, she says, "if you want an iPad you'd better get it in Denver."
+"Fuck, these aren't crackers," I say while sitting with her, trying to write a list of all the crackers on lined paper crisply folded along the lines. Later, she says, "if you want an iPad you'd better get it in Denver."
 
 "Have you ever seen a moving while you ate?" She asks. "Once there was a tunnel with TVs playing one as we passed through... Yes, I guess I have." I reply. She was there for those.
 
