@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dreams]]></title>
         <description><![CDATA[Dreams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 21:49:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 19:43:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I was living in a small basement flat in a tall brown-brick building that threatened to topple into the water at any moment. It found itself not so close to the side of a busy waterfront street to be noticed. I had to take the back stairs leading to the river, but that was ok because it meant I had a riverside porch for the small price of being below some store.</p>]]></description>
+            <link>https://thegrid.ai/dreams/i-was-living-in-a-small-basement-flat-in-a-tall-brown-brick/index.html</link>
+            <guid isPermaLink="false">0118bd33-7126-48f9-aa5b-8bdb84114b4d</guid>
+            <pubDate>Mon, 14 Mar 2016 19:43:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Astrophysicist]]></title>
-            <description><![CDATA[<article><h1>Astrophysicist</h1><p>"Fuck, these aren't crackers." While sitting with her, trying to write a list of all the crackers on lined paper crisply folded along the lines. Later, she says, "if you want an iPad you'd better get it in Denver."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c6df31110a5125ccbfcd967e91779b9fe1080c.jpg"></article>]]></description>
-            <link>undefinedastrophysicist/index.html</link>
+            <description><![CDATA[<article><h1>Astrophysicist</h1><p>"Fuck, these aren't crackers." While sitting with her, trying to write a list of all the crackers on lined paper crisply folded along the lines. Later, she says, "if you want an iPad you'd better get it in Denver."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84ba0d4397d6361f5eeac733c32ed4154254057e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dreams/astrophysicist/index.html</link>
             <guid isPermaLink="false">082e3c95-2ee4-4992-91e0-dcab854a89d8</guid>
             <pubDate>Fri, 22 Jan 2016 21:49:05 GMT</pubDate>
         </item>
